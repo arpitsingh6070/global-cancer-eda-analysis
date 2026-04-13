@@ -37,7 +37,6 @@ The dataset contains 50,000 records and includes the following categories:
 - NumPy
 - Matplotlib
 - Seaborn
-- Plotly
 - Jupyter Notebook
 - ## Key Analysis Performed
 1. Data Cleaning and Missing Value Handling
@@ -72,7 +71,6 @@ Include screenshots of:
 ## Future Improvements
 - Build a machine learning model for cancer severity prediction.
 - Create a patient risk scoring system.
-- Develop an interactive dashboard using Streamlit.
 - Add forecasting for future cancer incidence trends.
 
 ---
