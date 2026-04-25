@@ -27,7 +27,6 @@ The dataset contains 50,000 records and includes the following categories:
 - Genetic Risk: Family History / Genetic Predisposition
 - Environmental Exposure: Air Pollution
 - Clinical Variables: Cancer Type, Stage, Treatment Cost
-- Patient Outcomes: Survival Years, Severity Score
 
 ---
 
